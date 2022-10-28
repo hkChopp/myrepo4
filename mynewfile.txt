@@ -1,0 +1,3 @@
+the content of my new file is:
+	the content of my new file is:
+		the content of my new file is:...enough
