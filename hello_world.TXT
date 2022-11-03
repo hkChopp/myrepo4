@@ -6,4 +6,5 @@ Cum sociis natoque NEWWORD penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
+NEW LINE OF THE BRANCH BUGFIX_HENRIQUE
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
