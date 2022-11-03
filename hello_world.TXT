@@ -1,7 +1,12 @@
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
-commodo ligula eget dolor.
-massa.
+<<<<<<< HEAD
+AAA commodo ligula eget dolor.
+AAA massa.
+=======
+SSS ojk Aenean commodo ligula eget dolor.
+SSS oerd Aenean massa.
+>>>>>>> e26376573bdac7862575873ed6c5486778a816cf
 Cum sociis natoque NEWWORD penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
