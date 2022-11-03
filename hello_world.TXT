@@ -1,15 +1,10 @@
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
-aaaAAA commodo ligula eget dolor.
-aaaAAA massa.
-=======
-sssSSS ojk Aenean commodo ligula eget dolor.
-sssSSS oerd Aenean massa.
-=======
-ojk Aenean commodo ligula eget dolor.
-oerd Aenean massa.
+Aenean commodo ligula eget dolor.
+Aenean massa.
 Cum sociis natoque NEWWORD penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
+NEW LINE OF THE BRANCH BUGFIX_HENRIQUE
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
